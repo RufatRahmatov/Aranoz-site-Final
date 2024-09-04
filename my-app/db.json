@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "3",
+      "name": "Multipurpose Wooden Trolly",
+      "price": 20.99,
+      "image": "https://www.dropbox.com/s/ykdro56f2qltxys/hh2774663-87776.png?dl=1"
+    },
+    {
+      "id": 2,
+      "name": "table",
+      "price": 34,
+      "description": "44",
+      "image": "https://preview.colorlib.com/theme/aranoz/img/feature/feature_1.png"
+    },
+    {
+      "id": 3,
+      "name": "table",
+      "price": 150,
+      "description": "2",
+      "image": "https://preview.colorlib.com/theme/aranoz/img/product/product_2.png"
+    },
+    {
+      "id": 4,
+      "name": "table",
+      "price": 150,
+      "description": "3",
+      "image": "https://preview.colorlib.com/theme/aranoz/img/product/product_5.png"
+    }
+  ],
+  "cart": []
+}
